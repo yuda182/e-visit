@@ -1,0 +1,40 @@
+.navbar {
+  background-color: #222222;
+}
+
+section {
+  padding-top: 9rem;
+}
+
+.jumbotron {
+  padding-top: 12rem;
+  background-color: #222222;
+}
+
+#guide {
+  background-color: #141414;
+}
+#about {
+  background-color: #222222;
+}
+#contact {
+  background-color: #141414;
+}
+
+#form {
+  background-color: #141414;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
